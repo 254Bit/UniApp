@@ -4,6 +4,6 @@
 
 <template>
     <div id = "LandingPage">
-    <h1> About UniApp</h1>
+    <h1> About South Wales</h1>
 </div>
 </template>
