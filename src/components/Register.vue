@@ -13,7 +13,7 @@
                 theme="dark"
                 >
             <v-toolbar-title class="text-h6">
-                User Registration
+                Register With Us
             </v-toolbar-title>
             </v-toolbar>
             <v-container>
